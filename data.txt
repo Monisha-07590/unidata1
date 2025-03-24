@@ -16,13 +16,13 @@
 - **10:00 - 11:00 AM** → Data Structures (Mr. Karan S J)
 - **11:00 - 12:00 AM** → Operating System (Ms. Pavithra A V)
 - **12:00 - 12:15 AM** → Interval (Break)
-- **12:15 - 1:15 PM** → Java (Mrs. Amthul Hai)
+- **12:15 - 1:15 PM** → Java (Ms.Ramya)
 - **1:15 - 2:00 PM** → Lunch Break
 - **2:00 - 4:00 PM** → Kannada/Hindi (Dr. Kumar)
 - **4:00 - 5:00 PM** → Operating System Lab (Ms. Pavithra A V)
 
 #### **Section B**
-- **10:00 - 11:00 AM** → Java (Mrs. Amthu Hai)
+- **10:00 - 11:00 AM** → Java (Ms.Ramya)
 - **11:00 - 12:00 AM** → English (Dr. Mandela)
 - **12:00 - 12:15 AM** → Interval (Break)
 - **12:15 - 1:15 PM** → Operating System (Ms. Pavithra A V)
@@ -32,20 +32,20 @@
 
 ### **📅 Tuesday**
 #### **Section A**
-- **10:00 - 11:30 AM** → Java Lab (Mrs. Amthu Hai, Ms. Pavithra A V)
+- **10:00 - 11:30 AM** → Java Lab (Ms.Ramya , Ms. Pavithra A V)
 - **11:30 - 11:45 AM** → Interval (Break)
 - **11:45 - 1:15 PM** → Operating System Lab (Ms. Pavithra A V, Mr. Karan S J)
 - **1:15 - 2:00 PM** → Lunch Break
-- **2:00 - 3:30 PM** → Java (Mrs. Amthu Hai)
-- **3:30 - 5:00 PM** → IC (—)
+- **2:00 - 3:30 PM** → Java (Ms.Ramya)
+- **3:30 - 5:00 PM** → IC (Manasa Bangur)
 
 #### **Section B**
 - **10:00 - 11:00 AM** → Data Structures (Mr. Karan S J)
 - **11:00 - 12:00 PM** → English (Dr. Mandela)
 - **12:00 - 12:15 AM** → Interval (Break)
-- **12:15 - 1:15 PM** → Java (Mrs. Amthu Hai)
+- **12:15 - 1:15 PM** → Java (Ms.Ramya)
 - **1:15 - 2:00 PM** → Lunch Break
-- **2:00 - 3:30 PM** → IC (—)
+- **2:00 - 3:30 PM** → IC (Manasa Bangur)
 - **3:30 - 5:00 PM** → Operating System Lab Exp. (Ms. Pavithra A V)
 
 ### **📅 Wednesday**
@@ -53,28 +53,28 @@
 - **10:00 - 12:00 PM** → English (Mrs. Renu)
 - **12:15 - 1:15 PM** → Operating System (Ms. Pavithra A V)
 - **1:15 - 2:00 PM** → Lunch Break
-- **2:00 - 3:30 PM** → Data Structures Lab (Mr. Karan S J, Mrs. Amthu Hai)
+- **2:00 - 3:30 PM** → Data Structures Lab (Mr. Karan S J, Ms.Ramya)
 - **3:30 - 5:00 PM** → Data Structures Lab Exp. (Mr. Karan S J)
 
 #### **Section B**
 - **10:00 - 11:30 AM** → Operating System (Ms. Pavithra A V)
 - **11:30 - 11:45 AM** → Interval (Break)
-- **11:45 - 1:15 PM** → Java (Mrs. Amthu Hai)
+- **11:45 - 1:15 PM** → Java (Ms.Ramya)
 - **1:15 - 2:00 PM** → Lunch Break
 - **2:00 - 3:00 PM** → English (Dr. Mandela)
-- **3:30 - 5:00 PM** → JAVA Lab (Mr. Karan S J, Mrs. Amthu Hai)
+- **3:30 - 5:00 PM** → JAVA Lab (Mr. Karan S J, Ms.Ramya)
 
 ### **📅 Thursday**
 #### **Section A**
 - **10:00 - 12:00 PM** → English (Mrs. Renu)
 - **12:00 - 12:15 PM** → Interval (Break)
-- **12:15 - 1:15 PM** → Java (Mrs. Amthu Hai)
+- **12:15 - 1:15 PM** → Java (Ms.Ramya)
 - **1:15 - 2:00 PM** → Lunch Break
 - **2:00 - 3:30 PM** → Data Structures (Mr. Karan S J)
-- **3:30 - 5:00 PM** → JAVA Lab Exp. (Mrs. Amthu Hai)
+- **3:30 - 5:00 PM** → JAVA Lab Exp. (Ms.Ramya)
 
 #### **Section B**
-- **10:00 - 11:30 AM** → JAVA Lab (Mr. Karan S J, Mrs. Amthu Hai)
+- **10:00 - 11:30 AM** → JAVA Lab (Mr. Karan S J, Ms.Ramya)
 - **11:30 - 11:45 AM** → Interval (Break)
 - **11:45 - 1:15 PM** → Data Structures Lab (Mr. Karan S J, Ms. Pavithra A V)
 - **1:15 - 2:00 PM** → Lunch Break
@@ -88,27 +88,27 @@
 - **11:45 - 1:15 PM** → Operating System (Ms. Pavithra A V)
 - **1:15 - 2:00 PM** → Lunch Break
 - **2:00 - 4:00 PM** → Kannada/Hindi (Dr. Kumar)
-- **4:00 - 5:00 PM** → JAVA (Mrs. Amthu Hai)
+- **4:00 - 5:00 PM** → JAVA (Ms.Ramya)
 
 #### **Section B**
 - **10:00 - 11:30 AM** → Operating System (Ms. Pavithra A V)
 - **11:30 - 11:45 AM** → Interval (Break)
 - **11:45 - 1:15 PM** → Data Structures (Mr. Karan S J)
 - **1:15 - 2:00 PM** → Lunch Break
-- **2:00 - 3:30 PM** → JAVA (Mrs. Amthu Hai)
+- **2:00 - 3:30 PM** → JAVA (Ms.Ramya)
 - **4:00 - 5:00 PM** → Data Structures Lab Exp. (Mr. Karan S J)
 
 ### **📅 Saturday**
 #### **Section A**
-- **10:00 - 11:30 AM** → CC & EC (Placement) (Mr. Karan S J, Ms. Pavithra A V, Mrs. Amthu Hai)
+- **10:00 - 11:30 AM** → CC & EC (Placement) (Mr. Karan S J, Ms. Pavithra A V, Ms.Ramya)
 - **11:30 - 11:45 AM** → Interval (Break)
-- **11:45 - 1:15 PM** → CC & EC (Placement) (Mr. Karan S J, Ms. Pavithra A V, Mrs. Amthu Hai)
+- **11:45 - 1:15 PM** → CC & EC (Placement) (Mr. Karan S J, Ms. Pavithra A V, Ms.Ramya)
 - **1:15 - 2:00 PM** → Lunch Break
 
 #### **Section B**
-- **10:00 - 11:30 AM** → CC & EC (Placement) (Mr. Karan S J, Ms. Pavithra A V, Mrs. Amthu Hai)
+- **10:00 - 11:30 AM** → CC & EC (Placement) (Mr. Karan S J, Ms. Pavithra A V, Ms.Ramya)
 - **11:30 - 11:45 AM** → Interval (Break)
-- **11:45 - 1:15 PM** → CC & EC (Placement) (Mr. Karan S J, Ms. Pavithra A V, Mrs. Amthu Hai)
+- **11:45 - 1:15 PM** → CC & EC (Placement) (Mr. Karan S J, Ms. Pavithra A V, Ms.Ramya)
 - **1:15 - 2:00 PM** → Lunch Break
 
 #### **Head of the Department**
@@ -117,10 +117,138 @@
 #### **Subject Professors**
 - **Data Structure** → Mr.Karan Sambhaji Jadhav 
 - **Operating System** → Ms.Pavithra
-- **Java** → Mrs.Amthul Hai 
+- **Java** → Ms.Ramya
+#### **Students of section A** 
+-  **U03NK24S0026** → Darshan S D
+-  **U03NK24S0027** → Suresh
+-  **U03NK24S0028** → Suhel
+-  **U03NK24S0029** → Manoj
+-  **U03NK24S0030** → Mahanandish C
+-  **U03NK24S0031** → Arvind S
+-  **U03NK24S0032** → Sunil S
+-  **U03NK24S0033** → Mothilal N 
+-  **U03NK24S0034** → Gireesh Khane
+-  **U03NK24S0035** → Chethan S 
+-  **U03NK24S0036** → Mohammed Muzakkir
+-  **U03NK24S0037** → Manoj K
+-  **U03NK24S0038** → Ravikumar R H
+-  **U03NK24S0039** → V Deepali
+-  **U03NK24S0040** → B Meghana
+-  **U03NK24S0041** → Chinmayi H M
+-  **U03NK24S0042** → Hemanth Aradhya
+-  **U03NK24S0043** → Keerthan G 
+-  **U03NK24S0044** → Kishore K 
+-  **U03NK24S0045** → Monisha N 
+-  **U03NK24S0046** → Nuthan H N
+-  **U03NK24S0047** → Pavan H G
+-  **U03NK24S0048** → Priyanka J 
+-  **U03NK24S0049** → Rachana R
+-  **U03NK24S0050** → Rithuja M 
+-  **U03NK24S0051** → Samresh S 
+-  **U03NK24S0052** → Snatosh 
+-  **U03NK24S0053** → Shashikala M
+-  **U03NK24S0054** → Shravani C R
+-  **U03NK24S0055** → Shreyas
+-  **U03NK24S0056** → Siddappa Nayaka
+-  **U03NK24S0058** → Shashikala G E
+-  **U03NK24S0059** → Savitri 
+-  **U03NK24S0060** → R Varsha
+-  **U03NK24S0061** → Prarthana K C 
+-  **U03NK24S0062** → Shruthi R
+-  **U03NK24S0063** → Bharath V 
+-  **U03NK24S0064** → Bhanukeerthi P
+-  **U03NK24S0065** → Lalitha G S
+-  **U03NK24S0066** → Pooja U
+-  **U03NK24S0067** → Chethan Prasad B S
+-  **U03NK24S0068** → Ananya Miraskar P
+-  **U03NK24S0069** → D Pallavi
+-  **U03NK24S0070** → Darshan G
+-  **U03NK24S0071** → Divya B
+-  **U03NK24S0072** → Divya Shree K
+-  **U03NK24S0073** → Gagana M R
+-  **U03NK24S0074** → Gowtham R
+-  **U03NK24S0075** → Hemavati C G 
+-  **U03NK24S0077** → K S Kusuma
+-  **U03NK24S0078** → Kousalya S
+-  **U03NK24S0079** → Lavanya M
+-  **U03NK24S0080** → Mahesha M
+-  **U03NK24S0081** → Manoj Reddy A
 
-## Students
+#### **Students of Section B**
+-  **U03NK24S0082** → Kavya H
+-  **U03NK24S0083** → Preetham M Akki 
+-  **U03NK24S0085** → Siri V
+-  **U03NK24S0086** → Sahana R
+-  **U03NK24S0087** → Spoorthi S R
+-  **U03NK24S0088** → Suman B V
+-  **U03NK24S0089** → Sunita
+-  **U03NK24S0090** → Dhanya Shree J
+-  **U03NK24S0091** → N S Ganavi
+-  **U03NK24S0092** → Neha c
+-  **U03NK24S0093** → Pooja M R
+-  **U03NK24S0094** → Umesh A V
+-  **U03NK24S0095** → Preetham S
+-  **U03NK24S0096** → Renuka S
+-  **U03NK24S0097** → Praven Kumar S
+-  **U03NK24S0098** → Punith Kumar M A
+-  **U03NK24S0099** → Niranjan S Andaani
+-  **U03NK24S00100** → Madan Sunil Chimal
+-  **U03NK24S00101** → Manoj G
+-  **U03NK24S00102** → Prajwal C H
+-  **U03NK24S00103** → Hemanth C K
+-  **U03NK24S00104** → Harshitha N
+-  **U03NK24S00105** → Nithin M
+-  **U03NK24S00106** → Pruthvi M
+-  **U03NK24S00107** → Srinivas S N
+-  **U03NK24S00108** → Suraj S R
+-  **U03NK24S00109** → Y Ruchit Kumar
+-  **U03NK24S00110** → Sachin B M
+-  **U03NK24S00111** → Chandana C
+-  **U03NK24S00112** → Gagan B
+-  **U03NK24S00114** → Lakshmi P
+-  **U03NK24S00115** → Puneeth Raj N R
+-  **U03NK24S00116** → Bhavani H
+-  **U03NK24S00117** → Bhagya Lakshmi S
+-  **U03NK24S00118** → Syed Mushraf
+-  **U03NK24S00119** → Rajesh V
+-  **U03NK24S00120** → Navaneeth J S
+-  **U03NK24S00121** → Karthik T N
+-  **U03NK24S00122** → K Gangadhara 
+-  **U03NK24S00123** → Kavana M
+-  **U03NK24S00124** → Monisha P
+-  **U03NK24S00125** → Pavan V Gopal
+-  **U03NK24S00127** → Srinidhi H M
+-  **U03NK24S00128** → Prabhu M H
+-  **U03NK24S00129** → Manoj Kumar D S
+-  **U03NK24S00130** → Nandini G A
+-  **U03NK24S00131** → Hemanth K S
+-  **U03NK24S00132** → Vedhashree S
+-  **U03NK24S00133** → Venukumar N
+-  **U03NK24S00134** → Yashwanth K V
+-  **U03NK24S00135** → S Mahesh
+-  **U03NK24S00136** → Nakul Chandrashekar
+-  **U03NK24S00137** → Nithin B 
+-  **U03NK24S00138** → Varun Prasad M
+-  **U03NK24S00139** → Rukminishreeya R
 
-roll no 1 : kjgvkifdjbgd
-roll no 2 :  hjfiuhosdhfodshfo
-3. hidhoashfopihfo
+#### **Holidays List**
+-  January 14th (14/01/2025) → Sankranti festival
+-  February 26th (26/02/2025) → Mahashivarathri
+-  March 31st (31/03/2025) → Ramzan
+-  April 10th (10/04/2025) → Mahaveera Jayanti
+-  April 14th (14/04/2025) → Ambedkar Jayanti    
+-  April 18th (18/04/2025) → Good Friday
+-  April 30th (30/04/2025) → Basavana Jayanthi
+-  May 1st (01/05/2025) → Karmikara Dinacharane
+-  June 7th (07/06/2025) → Bakrid
+-  August 15th (15/08/2025) → Independence Day
+-  August 27th (27/08/2025) → Ganesha Chaturthi
+-  September 5th (05/09/2025) → Id-Milad
+-  October 1st (01/10/2025) → Ayudhapooja
+-  October 2nd (02/10/2025) → Gandhi jayanti 
+-  October 2nd (02/10/2025) → Vijayadhashami
+-  October 7th (07/10/2025) → Maharshi Valmiki Jayanti
+-  October 20th (20/10/2025) → Naraka Chaturdashi
+-  October 22nd (22/10/2025) → Balipadyami
+-  November 1st (01/11/2025) → Kannada Rajyotsava
+-  December 25th (25/12/2025) → Christmas
